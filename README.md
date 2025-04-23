@@ -1,6 +1,9 @@
 # Typescript-Project
 
 
+link codepen: https://codepen.io/Biagio-Cubisino-the-lessful/pen/azzBLpy?editors=1111
+
+
 # 1. Utilizzo delle interfacce (interface)
 Le interfacce IPartecipante, ICorso e IAzienda sono state introdotte per:
 * Definire un contratto chiaro tra struttura dati e comportamenti richiesti.
